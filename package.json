@@ -1,6 +1,6 @@
 {
   "name": "node-promise-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A small extension to native promises.",
   "license": "MIT",
   "homepage": "https://github.com/ben-page/node-promise-tools",
