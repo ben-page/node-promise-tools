@@ -5,9 +5,10 @@
   "license": "MIT",
   "homepage": "https://github.com/ben-page/node-promise-tools",
   "author": "Ben Page <ben.page@openreign.com>",
-  "main": "lib/promise.js",
+  "main": "lib/main.js",
   "repository": "ben-page/node-promise-tools",
   "engines": {
     "node": ">=10.0.0"
-  }
+  },
+  "module": "lib/index.js"
 }
