@@ -6,12 +6,15 @@
   "homepage": "https://github.com/ben-page/node-promise-tools",
   "author": "Ben Page <ben.page@openreign.com>",
   "main": "lib/main.js",
+  "module": "lib/index.js",
   "repository": "ben-page/node-promise-tools",
   "engines": {
     "node": ">=10.0.0"
   },
-  "module": "lib/index.js",
   "dependencies": {
     "esm": "^3.0.84"
+  },
+  "devDependencies": {
+    "@dti/eslint-config": "^1.0.5"
   }
 }
