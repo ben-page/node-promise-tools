@@ -6,7 +6,8 @@
   "homepage": "https://github.com/ben-page/node-promise-tools",
   "author": "Ben Page <ben.page@openreign.com>",
   "type": "module",
-  "module": "lib/index.js",
+  "exports": "./lib/main.js",
+  "main": "./lib/main.js",
   "repository": "ben-page/node-promise-tools",
   "engines": {
     "node": ">=10.0.0"
