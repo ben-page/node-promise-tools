@@ -1,20 +1,15 @@
 {
   "name": "node-promise-tools",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A small extension to native promises.",
   "license": "MIT",
   "homepage": "https://github.com/ben-page/node-promise-tools",
   "author": "Ben Page <ben.page@openreign.com>",
-  "main": "lib/main.js",
+  "type": "module",
   "module": "lib/index.js",
   "repository": "ben-page/node-promise-tools",
   "engines": {
     "node": ">=10.0.0"
   },
-  "dependencies": {
-    "esm": "^3.2.25"
-  },
-  "devDependencies": {
-    "@dti/eslint-config": "^1.0.5"
-  }
+  "dependencies": {}
 }
